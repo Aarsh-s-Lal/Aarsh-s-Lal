@@ -1,12 +1,14 @@
-<!--
-**Aarsh-s-Lal/Aarsh-s-Lal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋 I’m Aarsh S Lal</h1>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
 
-# Hi there, I’m Aarsh S Lal 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Computing+Enthusiast;Open+to+Collaboration+and+Learning!" alt="Typing SVG"/>
+</p>
 
-🚀 **Aspiring Software Engineer** | Full-Stack Developer | Cloud Enthusiast  
-📍 Lucknow, Uttar Pradesh, India
+<div align="center">
 
+---
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7316022b0-blue?logo=linkedin)](https://www.linkedin.com/in/aarsh-s-lal-7316022b0/)  
@@ -25,7 +27,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aarsh-s-Lal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
